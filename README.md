@@ -10,5 +10,5 @@ It determines the body normal state. If there is any problem in the body, that w
 #### Purpose of this website 
 By answering the questionnarie in the chatbot help us to provide your individualized prakriti score. That will help the ayurvedic practitioner to diagnosis your health problem very effectively.
 
-### About us
+##### About us
 This is used to assess your prakriti score. We aimed to provide help to ayurvedic practitioners by providing effective prakriti score. We are dedicated to delivering excellence in every endeavor.
