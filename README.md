@@ -1,3 +1,5 @@
-# parktool.github.io
-To assess your parkriti personalized score
-## sub heading
+# praktool.github.io
+To assess your prakriti personalized score
+
+## About us
+This is the website used to assess your prakriti sc
