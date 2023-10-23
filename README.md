@@ -13,5 +13,7 @@ By answering the questionnarie in the chatbot help us to provide your individual
 <!-- Horizontal Rule -->
 
 ---
+___
+
 ##### About us
 This is used to assess your prakriti score. We aimed to provide help to ayurvedic practitioners by providing effective prakriti score. We are dedicated to delivering excellence in every endeavor.
