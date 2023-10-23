@@ -1,7 +1,7 @@
 # praktool.github.io
 To assess your prakriti personalized score
 
-## What is PRAKIRTI 
+## What is PRAKRITI 
 <p>It states the nature of body in terms of doshas. The three doshas are vata, pitta and kapha. Vata, Pitta	and	Kapha	are	effectively	Air, Fire	and	Water	respectively.	 At	the	cellular	level	Vata	moves	nutrients	into	and	wastes	out	of	cells,	Pitta digests	nutrients	to	provide	energy	for	cellular	function,	and	Kapha	governs	the cell’s	structure.	In	the	digestive	tract	Vata	chews	and	swallows	the	food,	Pitta digests	it,	Vata	assimilates	nutrients	and	expels	wastes,	and	Kapha	controls	the secretions	that	lubricate	and	protect	the	digestive	organs.	In	the	mind	Vata retrieves	previous	data	from	memory	for	comparison	with	new	data.	Pitta processes	the	new	data	and	draws	conclusions,	which	Vata	then	stores	as	new memories.	Kapha	provides	the	stability	needed	for	the	mind	to	grasp	a	single thought	at	a	time.</p>
 
 ### Why the prakriti score needed to assess
